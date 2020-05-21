@@ -1,0 +1,4 @@
+<launch>
+    <node name="subscriber_node" pkg="bump_bot" type="subscriber.py" output="screen"/>
+    <node name="publisher_node" pkg="bump_bot" type="publisher.py" output="screen"/>
+</launch>
