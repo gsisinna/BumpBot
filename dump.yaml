@@ -1,0 +1,12 @@
+gridSize: 10
+
+rosdistro: 'melodic
+
+  '
+roslaunch:
+  uris: {host_pc__46691: 'http://PC:46691/'}
+rosversion: '1.14.5
+
+  '
+run_id: 2bda06f0-9b3f-11ea-9a0f-3c6aa7e3ba25
+

@@ -1,0 +1,4 @@
+<launch>
+    <node name="robotPublisher" pkg="bump_bot" type="robotPublisher.py" output="screen"/>
+    <node name="robotSubscriber" pkg="bump_bot" type="robotSubscriber.py" output="screen"/>   
+</launch>
